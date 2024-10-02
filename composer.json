@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "5.2.0",  // Vulnerable to RCE in older versions
+        "guzzlehttp/guzzle": "6.0"
+    }
+}
